@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MuhannedAlsoradi
 - 👀 I’m Software Engineer
-- Flutter Developer || Mobile Develeoper || CrossPlatform applications
+- 👀 Flutter Developer || Mobile Develeoper || CrossPlatform applications
 - 🌱 I’m currently learning in Al-azhar university-Gaza
 - 📫 How to reach me ...
+muhannedalsoradi@gmail.com
 
 <!---
 MuhannedAlsoradi/MuhannedAlsoradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
