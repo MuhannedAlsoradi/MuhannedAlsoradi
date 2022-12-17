@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhanned Alsoradi</h1>
 <h3 align="center">A passionate Mobile developer from Palestine</h3>
 
-- 🔭 I’m see my Last Project **Taskoo - ToDo list & Notes**
+- 🔭 see my Last Project **Taskoo - ToDo list & Notes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhannedAlsoradi](https://github.com/MuhannedAlsoradi)
 
