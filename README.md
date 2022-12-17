@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhanned Alsoradi</h1>
+<h3 align="left">Hi 👋, I'm Muhanned Alsoradi</h3>
 <h3 align="center">A passionate Mobile developer from Palestine</h3>
 
 - 🔭 see my Last Project **Taskoo - ToDo list & Notes**
