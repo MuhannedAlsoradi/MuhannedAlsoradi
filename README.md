@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhannedAlsoradi](https://github.com/MuhannedAlsoradi)
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **muhannedalsoradi@gmail.com**
 <hr>
