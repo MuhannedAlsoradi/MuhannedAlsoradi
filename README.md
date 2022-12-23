@@ -30,6 +30,8 @@ it  supports both English and Arabic languages.
 It supports dark mood.
 First page contains your daily and weekly report as well as the number of performed tasks and the left ones , with percentage of your productivity for the week.
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo"><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png"></img></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
