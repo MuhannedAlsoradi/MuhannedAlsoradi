@@ -34,15 +34,32 @@ You can share the app with your mates directly from the application you also get
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
 <h3>Taskoo - ToDo list & Notes</h3>
-<p>Organize & manage tasks, time and make notes of things you love.
-Organize & manage tasks, time and make notes of things you love.
-Taskoo allows you to manage your daily or weekly tasks in a professional way with a time reminder option.
-the app provides a margin which enables you to add and highlight your important and urgent notes.
-Taskoo comes to you in a smooth and beautiful design  so you can enjoy the app .
-it  supports both English and Arabic languages.
-It supports dark mood.
-First page contains your daily and weekly report as well as the number of performed tasks and the left ones , with percentage of your productivity for the week.
-You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
+<p>
+GPTZero AI Assistant can power your Business and Answers Anything instantly.
+.
+Application built basically on artificial intelligence provided by Open Ai, to offer you special services.
+.
+The ability to talk with through chatbot technique, it can offers you codes in the programming field within few seconds, provides you with programming articles with the right path to track a software field.
+.
+The ability to write long articles and emails.
+.
+Provides you with full sufficient answers for any question.
+.
+generate images through Al image generator which gives you detailed information about the photo.
+.
+It comes with different sizes suites all the devices with smooth elegant design.
+.
+Comes with dark and light mode.
+.
+Offers the customers the chance to contact directly with the programmer.
+.
+The ability to share the application easily.
+.
+The ability to Voice talk with the bot.
+.
+The ability to Share any answer you want.
+.
+You can convert text to audio.
   <br>
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
