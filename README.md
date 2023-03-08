@@ -15,8 +15,8 @@
     <li>Business Email :<a href="mailto:muhannedalsoradi@gmail.com"> muhannedalsoradi@gmail.com</a></li>
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
-<a href="https://linkedin.com/in/muhanned-alsoradi-695327244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhanned-alsoradi-695327244" height="30" width="40" /></a>
-<a href="https://instagram.com/theebhut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theebhut" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theebhut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhanned-alsoradi-695327244/) 
 </p>
 <hr>
 <h2>Samples from my projects</h2>
