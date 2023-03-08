@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mobile Development**
 
-- 📫 How to reach me **[muhannedalsoradi@gmail.com](https://linktr.ee/muhanneddalsoradi)**
+- 📫 How to reach me **[Click Here!](https://linktr.ee/muhanneddalsoradi)**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
