@@ -15,8 +15,6 @@
     <li>Business Email :<a href="mailto:muhannedalsoradi@gmail.com"> muhannedalsoradi@gmail.com</a></li>
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theebhut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhanned-alsoradi-695327244/) 
 </p>
 <hr>
 <h2>Samples from my projects</h2>
