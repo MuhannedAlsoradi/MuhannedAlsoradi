@@ -42,7 +42,7 @@ Get special offers when you shop using the app.
   <br>
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
-<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://w7.pngwing.com/pngs/34/523/png-transparent-app-store-apple-logo-apple-text-logo-video-game.png" width="30%"></img></a></p>
+<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fstore-badges%2Fdownload-on-the-app-store-badge&psig=AOvVaw2gOUuU9QPt_zTS1ypHIJcw&ust=1683262114650000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDi1JXu2v4CFQAAAAAdAAAAABAE" width="30%"></img></a></p>
 <hr>
 <h3>BrainyChat - AI Companion</h3>
 <p>
