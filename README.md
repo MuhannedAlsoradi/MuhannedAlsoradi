@@ -44,7 +44,7 @@ First page contains your daily and weekly report as well as the number of perfor
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
 <hr>
 <h3>BrainyChat - AI Companion</h3>
 <p>
