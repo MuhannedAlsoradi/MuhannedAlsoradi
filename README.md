@@ -42,7 +42,7 @@ Get special offers when you shop using the app.
   <br>
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
-<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Fstore-badges%2Fdownload-on-the-app-store-badge&psig=AOvVaw2gOUuU9QPt_zTS1ypHIJcw&ust=1683262114650000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDi1JXu2v4CFQAAAAAdAAAAABAE" width="30%"></img></a></p>
+<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" width="30%"></img></a></p>
 <hr>
 <h3>BrainyChat - AI Companion</h3>
 <p>
