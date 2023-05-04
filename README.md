@@ -33,15 +33,12 @@ You can share the app with your mates directly from the application you also get
 <p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
 <hr>
 <h3>RexSouq - Digital items shop</h3>
-<p>Organize & manage tasks, time and make notes of things you love.
-Organize & manage tasks, time and make notes of things you love.
-Taskoo allows you to manage your daily or weekly tasks in a professional way with a time reminder option.
-the app provides a margin which enables you to add and highlight your important and urgent notes.
-Taskoo comes to you in a smooth and beautiful design  so you can enjoy the app .
-it  supports both English and Arabic languages.
-It supports dark mood.
-First page contains your daily and weekly report as well as the number of performed tasks and the left ones , with percentage of your productivity for the week.
-You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
+<p>Free shipping with home delivery
+Search for all the products you want with the options of advanced search, classification, and quick browsing of all pages
+You can put the products you want in the shopping cart or your wishlist to buy them later, and the products will be synchronized in your account across all devices
+various payment options; Pay cash on delivery, credit or debit cards, or even easy monthly installment payment plans
+Easy return policy within 14 business days
+Get special offers when you shop using the app
   <br>
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
