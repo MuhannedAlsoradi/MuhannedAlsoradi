@@ -38,7 +38,7 @@ Search for all the products you want with the options of advanced search, classi
 You can put the products you want in the shopping cart or your wishlist to buy them later, and the products will be synchronized in your account across all devices
 various payment options; Pay cash on delivery, credit or debit cards, or even easy monthly installment payment plans
 Easy return policy within 14 business days
-Get special offers when you shop using the app
+Get special offers when you shop using the app.
   <br>
 </p>
 <p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://www.fcsok.org/wp-content/uploads/2020/04/get-it-on-google-play-badge.png" width="30%"></img></a></p>
