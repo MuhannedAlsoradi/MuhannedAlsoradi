@@ -134,8 +134,3 @@ You can convert text to audio.
 <h2>📊 GitHub stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
-<hr>
----
-[![](https://visitcount.itsvg.in/api?id=MuhannedAlsoradi&icon=0&color=2)](https://visitcount.itsvg.in)
-
- 
