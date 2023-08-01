@@ -130,6 +130,7 @@ You can convert text to audio.
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="40" alt="xd logo"  />
 </div>
-
+<hr>
+<h2>GitHub stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
