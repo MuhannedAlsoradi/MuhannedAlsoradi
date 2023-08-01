@@ -58,7 +58,7 @@ First page contains your daily and weekly report as well as the number of perfor
 You can share the app with your mates directly from the application you also get the chance to contact the developer when needed.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.taskoo" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
 <hr>
 <h3>RexSouq - Digital items shop</h3>
 <p>Free shipping with home delivery
@@ -69,8 +69,8 @@ Easy return policy within 14 business days
 Get special offers when you shop using the app.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="30%"></img></a></p>
-<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.Gamers.Shopping&hl=en_US&gl=US" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
+<p><a href="https://apps.apple.com/sa/app/%D8%B3%D9%81%D9%86-%D8%AA%D9%8A-%D9%82%D9%8A%D9%85%D8%B1/id1559331777?l=ar" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/84d0c40978410f7bcbf2eb4a4d026edf86d2964076277aedebf9cb519c141064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e25323061707025323073746f72652d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170702d73746f7265266c6f676f436f6c6f723d7768697465" width="40%"></img></a></p>
 <hr>
 <h3>BrainyChat - AI Companion</h3>
 <p>
@@ -89,7 +89,7 @@ The ability to Share any answer you want.
 You can convert text to audio.
   <br>
 </p>
-<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="30%"></img></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.muhanned01.gptzero01" align="center" target="_blank" ><img src="https://camo.githubusercontent.com/6a201cb97d03bc046f135d063bd3949856526d0ba23e3d45edc436a1fa5499e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47657425323069742532306f6e253230676f6f676c65253230706c61792d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d706c6179" width="40%"></img></a></p>
 <hr>
 <h2 align="left">Languages & Tools I code with:</h2>
 
@@ -134,5 +134,3 @@ You can convert text to audio.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
----
-[![](https://visitcount.itsvg.in/api?id=MuhannedAlsoradi&icon=0&color=0)](https://visitcount.itsvg.in)
