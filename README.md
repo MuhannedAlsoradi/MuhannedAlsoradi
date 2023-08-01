@@ -16,6 +16,8 @@
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
 </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaias_cuvula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-cuvula) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ICuvula) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://studio.youtube.com/channel/UChCgMnyGKOgEGDvubbjjr6A) 
 <hr>
 <h2>Samples from my projects</h2>
 <h3>Taskoo - ToDo list & Notes</h3>
