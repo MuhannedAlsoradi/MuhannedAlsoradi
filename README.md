@@ -42,7 +42,7 @@
     <li>Personal Email :<a href="mailto:mhndalsrdy14@gmail.com"> mhndalsrdy14@gmail.com</a></li>
   </ul>  
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages & Tools I code with:</h2>
 
 ###
 
