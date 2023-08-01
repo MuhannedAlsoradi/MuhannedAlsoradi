@@ -135,7 +135,7 @@ You can convert text to audio.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
 # 📊 GitHub Stats:
-
+<hr>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhannedAlsoradi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
