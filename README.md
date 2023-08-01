@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)" height="40" alt="xd logo"  />
 </div>
 
 
