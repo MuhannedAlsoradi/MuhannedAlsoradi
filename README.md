@@ -134,3 +134,15 @@ You can convert text to audio.
 <h2>GitHub stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhannedalsoradi&show_icons=true&locale=en" alt="muhannedalsoradi" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhannedalsoradi&show_icons=true&locale=en&layout=compact" alt="muhannedalsoradi" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IsaiasCuvula&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasCuvula&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=IsaiasCuvula&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=IsaiasCuvula&icon=0&color=2)](https://visitcount.itsvg.in)
+
+ 
